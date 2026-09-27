@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavindu Senanayake
+# 👋 Hi, I'm Kavindu Prabodya Senanayake
 
 ### 💻 Software Engineer | ⚡ Systems & Performance | 🤖 AI
 
