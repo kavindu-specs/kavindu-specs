@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavindu Senanayake
 
-### 💻 Software Engineer | ⚡ Systems & Performance | 📡 DSP & Signal Processing | 🤖 AI
+### 💻 Software Engineer | ⚡ Systems & Performance | 🤖 AI
 
 Software Engineer with **5+ years of experience** building scalable backend systems, APIs, and distributed applications.
 
