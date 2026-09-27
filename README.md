@@ -7,22 +7,19 @@ Software Engineer with **5+ years of experience** building scalable backend syst
 Currently expanding from backend engineering into **systems programming, high-performance computing, digital signal processing, embedded systems, and AI-driven applications**.
 
 ---
-
-# 💫 About Me
+# About Me
 
 * 💻 **Software Engineer** with 5+ years of experience building scalable backend systems and APIs.
 * 🚀 Experienced in **Laravel, PHP, Python, FastAPI, Node.js, and TypeScript**.
-* 🏗️ Interested in **distributed systems, microservices, system design, and high-performance computing**.
-* ⚡ Passionate about **performance optimization, concurrency, caching, queues, and scalable architectures**.
-* 🔐 Experienced with **REST APIs, OAuth2/OIDC, Keycloak, authentication, authorization, and secure backend systems**.
-* 🤖 Exploring the intersection of **AI and backend engineering**, including LLM-powered applications and intelligent developer tools.
-* 🧠 Deepening my knowledge of **C/C++, operating systems, computer architecture, networking, cryptography, and HPC**.
-* 📡 Exploring **digital signal processing, audio processing, speech processing, and signal analysis**.
-* 🔌 Interested in **embedded systems and high-performance C/C++ implementations**.
-* 🔬 Interested in combining **DSP + Machine Learning + AI** for practical research applications.
-* 🎓 Pursuing an **MSc in Computer Science** while continuing my software-engineering career.
-* 🛠️ I enjoy turning complex technical concepts into **practical, production-oriented projects**.
-* 📚 Always learning, experimenting, and building.
+* 🏗️ Interested in **software architecture, distributed systems, microservices, and HPC**.
+* ⚡ Focused on **performance, concurrency, caching, queues, and scalable systems**.
+* 🔐 Experienced in **REST APIs, OAuth2/OIDC, Keycloak, and secure backend systems**.
+* 🤖 Exploring **AI/ML, LLMs, and AI-powered backend applications**.
+* 🧠 Deepening knowledge of **C/C++, operating systems, networking, and computer architecture**.
+* 📡 Exploring **DSP, audio/speech processing, and embedded systems**.
+* 🔬 Interested in combining **DSP + ML + AI** for practical research.
+* 🎓 Pursuing an **MSc in Computer Science** while working as a Software Engineer.
+* 🛠️ I enjoy turning **computer science concepts into practical, production-oriented projects**.
 
 ---
 
